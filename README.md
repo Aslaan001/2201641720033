@@ -238,21 +238,8 @@ npm start
 
 ---
 
-## Submission Checklist
-- [ ] Public GitHub repository named with your Roll Number
-- [ ] Folders present: `backend/`, `frontend/`, `logging-middleware/`, `documentation/`
-- [ ] Logging Middleware integrated as the very first function in backend and used throughout
-- [ ] All endpoints implemented with validation and structured JSON errors
-- [ ] Frontend built with React + Material UI; runs at `http://localhost:3000`
-- [ ] Screenshots (API calls + UI desktop/mobile) added in `documentation/`
-- [ ] `.env` not committed; values tested locally
-- [ ] README updated (this file)
-
----
-
 ## Notes & Assumptions
 - Default validity is 30 minutes if the user does not provide a value.
 - Coarse geo for clicks uses the requester IP as a placeholder. Real geolocation requires a third‑party service and is out of scope.
 - Warnings about deprecated Mongoose options are suppressed by using the modern `mongoose.connect(uri)` signature.
 
-Good luck with your submission! 🎯
