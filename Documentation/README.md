@@ -1,4 +1,4 @@
-# AffordMed Campus Hiring Evaluation — Full Stack (URL Shortener)
+# Full Stack (URL Shortener)
 
 This repository implements the Full Stack assignment: a robust HTTP URL Shortener Microservice with a React web app and a reusable Logging Middleware integrated from the very first function. This README is submission‑ready and mirrors the evaluation document’s requirements.
 
@@ -235,18 +235,6 @@ npm start
   - Network request(s) to the Log API showing correct body and 200 OK (browser dev tools or backend logs)
 
 > Place all screenshots in `documentation/` before submission.
-
----
-
-## Submission Checklist
-- [ ] Public GitHub repository named with your Roll Number
-- [ ] Folders present: `backend/`, `frontend/`, `logging-middleware/`, `documentation/`
-- [ ] Logging Middleware integrated as the very first function in backend and used throughout
-- [ ] All endpoints implemented with validation and structured JSON errors
-- [ ] Frontend built with React + Material UI; runs at `http://localhost:3000`
-- [ ] Screenshots (API calls + UI desktop/mobile) added in `documentation/`
-- [ ] `.env` not committed; values tested locally
-- [ ] README updated (this file)
 
 ---
 
