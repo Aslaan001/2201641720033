@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 /**
- * Log function for AffordMed assignment
+
  * @param {string} stack - 'backend' or 'frontend'
  * @param {string} level - 'debug', 'info', 'warn', 'error', 'fatal'
  * @param {string} pkg - package name (see assignment doc)
