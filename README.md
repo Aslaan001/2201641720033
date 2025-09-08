@@ -197,7 +197,7 @@ MONGODB_URI=your_mongodb_connection_string_here
 # AffordMed Test Server
 CLIENT_ID=your_client_id_here
 CLIENT_SECRET=your_client_secret_here
-ACCESS_CODE=sAWTuR
+ACCESS_CODE=acesscode
 ACCESS_TOKEN=your_access_token_here
 LOGGING_API_URL=http://20.244.56.144/evaluation-service/logs
 ```
