@@ -4,8 +4,8 @@ This repository implements the Full Stack assignment: a robust HTTP URL Shortene
 
 ## Repository Structure
 ```
-backend/                # Express microservice (Node.js)
-frontend/               # React application (Material UI)
+Backend_Test_Submission/                # Express microservice (Node.js)
+Frontend_Test_submission/               # React application (Material UI)
 logging-middleware/     # Reusable logging package (backend & frontend)
 documentation/          # Docs and screenshots (add images here)
 ```
@@ -243,4 +243,4 @@ npm start
 - Coarse geo for clicks uses the requester IP as a placeholder. Real geolocation requires a third‑party service and is out of scope.
 - Warnings about deprecated Mongoose options are suppressed by using the modern `mongoose.connect(uri)` signature.
 
-Good luck with your submission! 🎯
+
