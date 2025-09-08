@@ -31,7 +31,7 @@ You must register and then obtain an access token to call the protected Log API.
       "mobileNo": "9999999999",
       "githubUsername": "yourgithub",
       "rollNo": "roll123",
-      "accessCode": "sAWTuR"
+      "accessCode": ""
     }
     ```
   - Response includes `clientId` and `clientSecret`. Save them safely.
@@ -44,7 +44,7 @@ You must register and then obtain an access token to call the protected Log API.
       "email": "your_email@college.edu",
       "name": "Your Name",
       "rollNo": "roll123",
-      "accessCode": "sAWTuR",
+      "accessCode": "",
       "clientId": "<from_registration>",
       "clientSecret": "<from_registration>"
     }
