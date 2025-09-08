@@ -4,8 +4,8 @@ This repository implements the Full Stack assignment: a robust HTTP URL Shortene
 
 ## Repository Structure
 ```
-backend/                # Express microservice (Node.js)
-frontend/               # React application (Material UI)
+Backend_Test_Submission/                # Express microservice (Node.js)
+Frontend_Test_Submission/               # React application (Material UI)
 logging-middleware/     # Reusable logging package (backend & frontend)
 documentation/          # Docs and screenshots (add images here)
 ```
